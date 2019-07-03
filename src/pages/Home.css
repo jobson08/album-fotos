@@ -1,0 +1,25 @@
+
+.body-home{
+    margin-top: 80px;
+}
+
+.card-fid {
+   margin-top: 20px;
+   margin-left: 90px;
+   margin-right: 90px;
+}
+
+.titulo-card{
+    /*font-size: 30px;*/
+    text-align: center; 
+    columns: #000000;
+}
+.bordy-card{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 ;
+    
+}
+.text-card{
+    columns: #000000;
+}
